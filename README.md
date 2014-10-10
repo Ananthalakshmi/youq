@@ -1,4 +1,4 @@
 youq
 ====
 
-Youq project files
+Youq Repository for the project files
